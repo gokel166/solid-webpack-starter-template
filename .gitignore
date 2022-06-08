@@ -1,0 +1,13 @@
+/node_modules/
+
+.vscode/*
+
+/build/
+
+.env
+
+.cache
+
+.DS_Store
+
+*.log

@@ -1,0 +1,19 @@
+{
+  "jsxSingleQuote": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "semi": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "printWidth": 110,
+  "overrides": [
+    {
+      "files": [".stylelintrc.json"],
+      "options": {
+        "tabWidth": 2,
+        "singleQuote": false
+      }
+    }
+  ]
+}
